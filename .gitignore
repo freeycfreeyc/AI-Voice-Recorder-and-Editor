@@ -1,0 +1,7 @@
+﻿clean_env/
+build/
+dist/
+ffmpeg.exe
+*.spec
+*.exe
+__pycache__/
